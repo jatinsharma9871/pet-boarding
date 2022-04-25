@@ -1,0 +1,17 @@
+{
+  "todo": [],
+  "users": [
+    {
+      "name": "Sumeet",
+      "email": "sumeet@gmail.com",
+      "password": "123456",
+      "id": 1
+    },
+    {
+      "name": "a",
+      "email": "a@a",
+      "password": "a",
+      "id": 2
+    }
+  ]
+}
